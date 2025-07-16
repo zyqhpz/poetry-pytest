@@ -22,7 +22,7 @@ docker run --name mysql-db -e MYSQL_ROOT_PASSWORD=root -e MYSQL_USER=mysql -e MY
 ### 2. **Install Project Dependencies**
 
 ```shell
-cd path\to\your\project
+cd poetry-pytest
 ```
 
 Then, install all the project dependencies defined in pyproject.toml:
